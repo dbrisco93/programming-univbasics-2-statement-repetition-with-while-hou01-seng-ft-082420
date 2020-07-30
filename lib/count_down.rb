@@ -5,7 +5,6 @@ happy_new_year = 0
 while count > 0 && count != happy_new_year do
   puts count 
   count -= 1
-else count = happy_new_year
-  puts "Happy New Year!"
 end
+puts "Happy New Year!"
   
